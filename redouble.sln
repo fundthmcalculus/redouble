@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "redouble", "redouble\redouble.shproj", "{B856E40F-1C87-491D-A9E4-A7703D801E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redouble.iOS", "iOS\redouble.iOS.csproj", "{0C864D75-E287-4BC9-A967-6EF5E0B5E929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Release|iPhone.Build.0 = Release|iPhone
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0C864D75-E287-4BC9-A967-6EF5E0B5E929}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
